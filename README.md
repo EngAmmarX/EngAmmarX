@@ -4,31 +4,11 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=IT+Engineer+%7C+Enterprise+Infrastructure+%7C+Systems;Network+Engineer+%7C+Routing+%26+Switching+%7C+Security;Software+Engineer+%7C+Full+Stack+%7C+Scalable+Architecture;Cybersecurity+%7C+System+Design+%7C+Performance;Building+Real+Systems+%7C+Production+Mindset)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7c3aed&label=Followers&logo=github)](https://github.com/YOUR_USERNAME)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=a855f7&label=Total+Stars&logo=github)](https://github.com/YOUR_USERNAME)
-
-</div>
-
 ---
 
 ## 🚀 About Me
 
 <div align="center">
-
-![terminal](./terminal.svg)
 
 </div>
 
