@@ -1,26 +1,22 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050510,30:0a0a2e,60:0d1b4b,100:050510&text=Ammar%20Mohamed&fontSize=62&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=1&desc=Software%20Engineer%20·%20Information%20Systems%20·%20AI%20Enthusiast&descSize=17&descColor=7eb8ff&descAlignY=70&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:050510,50:0a1628,100:050510&text=Ammar%20Mohamed&fontSize=60&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=1&desc=Computer%20Science%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descColor=7eb8ff&descAlignY=70&animation=twinkling"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=🎓+Information+Systems+Student+%7C+Egypt;⚙️+Software+Engineering+%7C+Systems+Design;🤖+AI+%7C+Machine+Learning+%7C+LLM+Applications;💻+C%23+%7C+.NET+%7C+Web+Development;🚀+Building+The+Future%2C+One+System+At+A+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+Horus+University+Egypt;Software+Engineer+%7C+C%23+%2B+.NET+%2B+Web+Development;AI+%26+Machine+Learning+Enthusiast;Building+Real+Systems+That+Solve+Real+Problems;Always+Learning+%E2%80%94+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineermaro76)
-&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DEFcw9TgX/)
-&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.ammar.official@gmail.com)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngAmmarX)
 
 </div>
@@ -30,8 +26,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=EngAmmarX&color=00d4ff&style=flat-square&label=Profile+Views)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/EngAmmarX?style=flat-square&color=00d4ff&label=Followers&logo=github)](https://github.com/EngAmmarX)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/EngAmmarX?style=flat-square&color=00bfff&label=Stars&logo=github)](https://github.com/EngAmmarX)
 
 </div>
 
@@ -41,59 +35,53 @@
 
 ```yaml
 Name        : Ammar Mohamed
-Title       : Software Engineer | Information Systems Student
-Institute   : Horus University Egypt
-Focus       : Systems Engineering · AI Applications · Full Stack Development
+Title       : Software Engineer | Computer Science Student
+University  : Horus University Egypt
+Faculty     : Faculty of Computers & Artificial Intelligence
+Major       : Computer Science
+Focus       : Software Engineering · AI Applications · Full Stack Development
 Currently   : Learning · Building · Growing
 Languages   : Arabic (Native) · English (Technical)
-Interests   : AI/ML · Software Architecture · Open Source · Innovation
 Goal        : Build impactful tech solutions for real-world problems
 ```
 
 ---
 
-## 🎓 Education & Specialization
+## 🎓 Education
 
-<div align="center">
-
-| 🏛️ Institution | 📚 Field | 📅 Status |
-|:---|:---|:---:|
-| Horus University Egypt | Information Systems | 🟢 Active — Year 1 |
-| Specialized in | Software Engineering + Business Technology | 🔵 In Progress |
-
-</div>
+| 🏛️ University | 🖥️ Faculty | 📚 Major | 📅 Status |
+|:---|:---|:---|:---:|
+| Horus University Egypt | Faculty of Computers & Artificial Intelligence | Computer Science | 🟢 Year 1 — Active |
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VB.NET](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
-### 🔧 Frameworks & Tools
+### ⚙️ Frameworks & Platforms
 
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
-### 🗄️ Databases & Infrastructure
+### 🗄️ Databases & Tools
 
 <div align="center">
 
@@ -101,67 +89,50 @@ Goal        : Build impactful tech solutions for real-world problems
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
-### 📊 Microsoft Office Suite
-
-<div align="center">
-
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
-
-</div>
-
----
-
-## 🤖 AI & Emerging Tech Interest
+### 🤖 AI & Emerging Technologies
 
 <div align="center">
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9500?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge&logo=claude&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D4FF?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D4FF?style=for-the-badge&logoColor=white)
 
 </div>
 
-> 🔬 *Exploring how AI transforms Information Systems — from intelligent automation to LLM-powered business tools.*
-
 ---
 
-## 🎯 Current Focus & Goals
+## 🚀 2025 – 2026 Roadmap
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    🚀 2025 - 2026 ROADMAP                   │
-├─────────────────────────────────────────────────────────────┤
-│  ✅  Master C# and .NET ecosystem                           │
-│  ✅  Learn Structured Programming & Algorithms              │
-│  🔄  Build portfolio-ready web applications                 │
-│  🔄  Explore AI/ML integration in real systems              │
-│  📌  Launch first open-source project                       │
-│  📌  Contribute to AI-powered tools for Arabic speakers     │
-│  📌  Build a Quran app with Flutter                         │
-│  📌  Transition to ASP.NET Core MVC web development         │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                     🎯 CURRENT GOALS                         │
+├──────────────────────────────────────────────────────────────┤
+│  ✅  Master C# and .NET ecosystem                            │
+│  ✅  Learn Structured Programming & Algorithms               │
+│  🔄  Build portfolio-ready web applications                  │
+│  🔄  Explore AI/ML integration in real systems               │
+│  📌  Launch first open-source project on GitHub              │
+│  📌  Build a Flutter mobile app (Quran App)                  │
+│  📌  Master ASP.NET Core MVC & Web APIs                      │
+│  📌  Contribute to AI tools for Arabic speakers              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngAmmarX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050510&title_color=00d4ff&icon_color=00bfff&text_color=7eb8ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=EngAmmarX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050510&title_color=00d4ff&icon_color=00bfff&text_color=7eb8ff"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAmmarX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00d4ff&text_color=7eb8ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAmmarX&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00d4ff&text_color=7eb8ff"/>
 
 </div>
 
@@ -173,44 +144,36 @@ Goal        : Build impactful tech solutions for real-world problems
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Activities & Achievements
+
+| 🏅 | Activity | Details |
+|:---:|:---|:---|
+| 🎤 | **Public Speaker** | Seminar: *"How to Benefit from AI in Studies & Daily Life"* |
+| 🫂 | **Student Leader** | Active member — **Nabd Family** Student Organization |
+| 📣 | **University Representative** | Promotional content & media production for the university |
+| 🏗️ | **Developer** | Built real desktop applications using C# & Windows Forms |
+| 🌐 | **Tech Advocate** | Spreading tech awareness among fellow students |
+
+---
+
+## 💡 Philosophy
 
 <div align="center">
 
-| 🏅 Activity | 📝 Details |
-|:---|:---|
-| 🎤 Public Speaker | Delivered seminar: *"How to Benefit from AI in Your Studies & Daily Life"* |
-| 🫂 Student Leader | Active member — **Nabd Family** Student Organization |
-| 📣 Institute Representative | Created promotional content & media for the institute |
-| 🏗️ Hands-on Builder | Built real Windows Forms apps in C# as a beginner |
-| 🌐 Tech Advocate | Promotes tech literacy among fellow students |
+> *"Engineering is not just about writing code —*
+> *it's about solving real problems with precision, creativity, and purpose."*
 
 </div>
 
 ---
 
-## 💡 Engineering Philosophy
+## 🌐 Connect
 
 <div align="center">
 
-> *"Engineering is not just about writing code — it's about solving real problems with precision, creativity, and purpose."*
-
-> *"Every great system starts with a clear understanding of the problem it's meant to solve."*
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|:---:|:---|
-| 💼 **LinkedIn** | [linkedin.com/in/engineermaro76](https://www.linkedin.com/in/engineermaro76) |
-| 📘 **Facebook** | [facebook.com/EngAmmar](https://www.facebook.com/share/1DEFcw9TgX/) |
-| 📧 **Email** | [eng.ammar.official@gmail.com](mailto:eng.ammar.official@gmail.com) |
-| 🐙 **GitHub** | [github.com/EngAmmarX](https://github.com/EngAmmarX) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineermaro76)
+[![Facebook](https://img.shields.io/badge/Facebook-Ammar%20Mohamed-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DEFcw9TgX/)
+[![Gmail](https://img.shields.io/badge/Email-eng.ammar.official-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.ammar.official@gmail.com)
 
 </div>
 
@@ -218,14 +181,10 @@ Goal        : Build impactful tech solutions for real-world problems
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050510,50:0a1628,100:050510&section=footer&text=Information+Systems+·+Engineering+·+AI+·+Innovation&fontSize=15&fontColor=00d4ff&fontAlignY=65&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:050510,50:0a1628,100:050510&section=footer&text=Computer+Science+·+Software+Engineering+·+AI+·+Innovation&fontSize=14&fontColor=00d4ff&fontAlignY=65&animation=twinkling"/>
 
 </div>
 
 <div align="center">
-
-**⭐ If you find my work interesting, feel free to star my repos and connect!**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
-
+<b>⭐ Star my repos if you find them useful — and let's connect!</b>
 </div>
